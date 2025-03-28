@@ -1,9 +1,7 @@
 # 🌟 KamiAnime: Anime'nin Dijital Evreni
-
 ![KamiAnime Banner](https://static.kamiani.me/showcase/rimuru.png)
 
 ## 🚀 Proje Vizyonu
-
 KamiAnime, anime severler için tasarlanmış modern, akıllı ve topluluk odaklı bir platformdur. Amacımız, anime dünyasını keşfetmeyi, paylaşmayı ve deneyimlemeyi benzersiz bir şekilde dönüştürmek.
 
 ## 💡 Teknoloji Yığını
@@ -15,10 +13,15 @@ KamiAnime, anime severler için tasarlanmış modern, akıllı ve topluluk odakl
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
+### Streaming & Gerçek Zamanlı Teknolojiler
+![WebSocket](https://img.shields.io/badge/WebSocket-4A4A4A?style=for-the-badge&logo=socket.io&logoColor=white)
+![HLS](https://img.shields.io/badge/HLS-00A86B?style=for-the-badge&logo=apple&logoColor=white)
+![DASH](https://img.shields.io/badge/DASH-0091BD?style=for-the-badge&logo=googlechrome&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+
 ### Backend Teknolojileri
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
 ### Veritabanı & Altyapı
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -49,27 +52,28 @@ KamiAnime, anime severler için tasarlanmış modern, akıllı ve topluluk odakl
 - Küresel anime etkinlikleri takibi
 
 ## 🎨 Renk Paleti
-
 - **Primer Turuncu**: `#FF6B35`
 - **Aksan Turkuaz**: `#4ECDC4`
 - **Hafif Arka Plan**: `#F7FFF7`
 - **Zengin Metin**: `#393D3F`
 
 ## 🚀 Stratejik Hedefler
-
 1. Dünya çapında en kapsamlı anime platformu olmak
 2. Yapay zeka destekli içerik önerileri geliştirmek
 3. Küresel anime topluluğunu birleştirmek
 
 ## 📞 Bağlantı Kanalları
-
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9jWvRqhPRj)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kamianimeapp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirket@kamiani.me)
 
 ## 📄 Lisans
+© 2025 KamiAnime Teknoloji A.Ş. Tüm hakları saklıdır.
 
-© 2025 KamiAnime. Tüm hakları saklıdır.
+**Kullanım Koşulları**:
+- Yazılımın tamamı veya bir kısmı şirket izni olmaksızın kopyalanamaz
+- Ticari kullanım kesinlikle yasaktır
+- Kaynak kod görüntülenemez ve değiştirilemez
 
 ---
 
