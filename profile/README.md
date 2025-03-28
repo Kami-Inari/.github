@@ -69,8 +69,9 @@ KamiAnime, anime severler için tasarlanmış modern, akıllı ve topluluk odakl
 
 ## 📄 Lisans
 
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+© 2025 KamiAnime. Tüm hakları saklıdır.
 
+Bu yazılım özel ticari bir üründür. Yazılının kullanımı, kopyalanması veya dağıtılması şirket izni olmaksızın kesinlikle yasaktır.
 ---
 
 **🌟 Anime tutkunları için, teknoloji ile güçlendirilmiş bir platform!**
